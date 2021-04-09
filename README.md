@@ -4,3 +4,4 @@ This is a repo of all my 50 Projects created from the Udemy course [50 Projects 
 ## Project Demos
 The demos for these 50 projects are available in my [CodePen](https://codepen.io/adriculous-the-looper). List will be updated as projects are completed in chronological order.
 1. [(4/5/21): Expanding Cards](https://codepen.io/adriculous-the-looper/pen/WNRErpq)
+2. [(4/6/21): Progress Steps](https://codepen.io/adriculous-the-looper/pen/qBRXGjM)
