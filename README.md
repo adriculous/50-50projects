@@ -1,4 +1,4 @@
-# Projects from "50 Projects in 50 Days" 50 Projects in 50 Days
+# Projects from "50 Projects in 50 Days" Udemy Course for #100DaysOfCode Twitter Challenge
 This is a repo of all my 50 Projects created from the Udemy course [50 Projects in 50 Days](https://www.udemy.com/course/50-projects-50-days/) by Brad Traversy and Florin Pop. The projects can also be used for references to build future sites, as well as modifying them for my future portfolio items. I enrolled in this course as part of my #100DaysOfCode ongoing challenges.
 
 If interested, please follow me on [Twitter](https://twitter.com/adriculous) for my #100DaysOfCode progress.
