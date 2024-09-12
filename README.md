@@ -4,8 +4,8 @@ This is a repo of all my 50 Projects created from the Udemy course [50 Projects 
 If interested, please follow me on [Twitter](https://twitter.com/adriculous) for my #100DaysOfCode progress.
 
 ## Project Demos
-The demos for these 50 projects are available in my [CodePen](https://codepen.io/adriculous-the-looper) and/or in a sample directory in my [portfolio site](https://adrianne.dev). List will be updated as projects are completed in chronological order.
-1. [(4/5/21): Expanding Cards](https://codepen.io/adriculous-the-looper/pen/WNRErpq)
-2. [(4/6/21): Progress Steps](https://codepen.io/adriculous-the-looper/pen/qBRXGjM)
-3. [(4/8/21): Rotating Navigation](https://adrianne.dev/50-50projects/03_rotating_nav/)
-4. [(4/9/21): Hidden Search Widget](https://codepen.io/adriculous-the-looper/pen/QWdavge)
+The demos for these 50 projects are available in my [CodePen]([https://codepen.io/adriculous](https://codepen.io/collection/XymeWZ) and/or in a sample directory in my [portfolio site](https://adrianne.io). List will be updated as projects are completed in chronological order.
+1. [(4/5/21): Expanding Cards](https://codepen.io/adriculous/pen/WNRErpq))
+2. [(4/6/21): Progress Steps](https://codepen.io/adriculous/pen/qBRXGjM)
+3. (4/8/21): Rotating Navigation *(new URL coming soon)*
+4. [(4/9/21): Hidden Search Widget](https://codepen.io/adriculous/pen/QWdavge)
